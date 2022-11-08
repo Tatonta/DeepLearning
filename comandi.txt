@@ -1,0 +1,1 @@
+python train.py --outdir="C:\Users\Tatonta\Desktop\Deep Learning\Style3CGAN\results" --data="C:\Users\Tatonta\Desktop\Deep Learning\Style3CGAN\sc5_resized" --kimg=10000 --gpus=1 --batch=8 --gamma=6 --cfg stylegan3-t

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Deep Learning.iml" filepath="$PROJECT_DIR$/.idea/Deep Learning.iml" />
+      <module fileurl="file://D:/PyLearning/.idea/PyLearning.iml" filepath="D:/PyLearning/.idea/PyLearning.iml" />
+      <module fileurl="file://D:/PycharmProjects/.idea/PycharmProjects.iml" filepath="D:/PycharmProjects/.idea/PycharmProjects.iml" />
+      <module fileurl="file://D:/pythonProject/.idea/pythonProject.iml" filepath="D:/pythonProject/.idea/pythonProject.iml" />
+    </modules>
+  </component>
+</project>
